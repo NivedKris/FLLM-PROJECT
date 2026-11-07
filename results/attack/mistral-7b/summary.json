@@ -1,0 +1,152 @@
+[
+ {
+  "setting": "original",
+  "n": 1348,
+  "poison_in_prompt": 1.0,
+  "ASR": 0.06676557863501484,
+  "ASR_given_poison_in_prompt": 0.06676557863501484,
+  "direct_exec": 0.13056379821958458,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 1450.1216617210682,
+  "ASR_by_paradigm": {
+   "Template-1": 0.0995260663507109,
+   "Template-2": 0.009633911368015413,
+   "Template-3": 0.10355987055016182
+  }
+ },
+ {
+  "setting": "tool@1",
+  "n": 1348,
+  "poison_in_prompt": 0.23590504451038577,
+  "ASR": 0.03115727002967359,
+  "ASR_given_poison_in_prompt": 0.1320754716981132,
+  "direct_exec": 0.15949554896142434,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 310.48961424332344,
+  "ASR_by_paradigm": {
+   "Template-1": 0.061611374407582936,
+   "Template-2": 0.02119460500963391,
+   "Template-3": 0.02912621359223301
+  }
+ },
+ {
+  "setting": "tool@3",
+  "n": 1348,
+  "poison_in_prompt": 0.5838278931750742,
+  "ASR": 0.06008902077151335,
+  "ASR_given_poison_in_prompt": 0.10292249047013977,
+  "direct_exec": 0.1261127596439169,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 539.9918397626112,
+  "ASR_by_paradigm": {
+   "Template-1": 0.07109004739336493,
+   "Template-2": 0.005780346820809248,
+   "Template-3": 0.10194174757281553
+  }
+ },
+ {
+  "setting": "tool@5",
+  "n": 1348,
+  "poison_in_prompt": 0.6921364985163204,
+  "ASR": 0.050445103857566766,
+  "ASR_given_poison_in_prompt": 0.07288317256162916,
+  "direct_exec": 0.12462908011869436,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 780.6001483679526,
+  "ASR_by_paradigm": {
+   "Template-1": 0.07109004739336493,
+   "Template-2": 0.007707129094412331,
+   "Template-3": 0.07928802588996764
+  }
+ },
+ {
+  "setting": "server-inside@1",
+  "n": 1348,
+  "poison_in_prompt": 0.7737388724035609,
+  "ASR": 0.05637982195845697,
+  "ASR_given_poison_in_prompt": 0.0728667305848514,
+  "direct_exec": 0.10905044510385757,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 1472.9154302670622,
+  "ASR_by_paradigm": {
+   "Template-1": 0.0995260663507109,
+   "Template-2": 0.007707129094412331,
+   "Template-3": 0.0825242718446602
+  }
+ },
+ {
+  "setting": "server-inside@3",
+  "n": 1348,
+  "poison_in_prompt": 0.9020771513353115,
+  "ASR": 0.0712166172106825,
+  "ASR_given_poison_in_prompt": 0.07894736842105263,
+  "direct_exec": 0.1172106824925816,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 4468.125370919881,
+  "ASR_by_paradigm": {
+   "Template-1": 0.07109004739336493,
+   "Template-2": 0.046242774566473986,
+   "Template-3": 0.09223300970873786
+  }
+ },
+ {
+  "setting": "server-inside@5",
+  "n": 1348,
+  "poison_in_prompt": 0.9458456973293768,
+  "ASR": 0.0830860534124629,
+  "ASR_given_poison_in_prompt": 0.08784313725490196,
+  "direct_exec": 0.11943620178041543,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 7546.556379821958,
+  "ASR_by_paradigm": {
+   "Template-1": 0.07109004739336493,
+   "Template-2": 0.055876685934489405,
+   "Template-3": 0.11003236245954692
+  }
+ },
+ {
+  "setting": "server-separate@1",
+  "n": 1348,
+  "poison_in_prompt": 0.23590504451038577,
+  "ASR": 0.03115727002967359,
+  "ASR_given_poison_in_prompt": 0.1320754716981132,
+  "direct_exec": 0.15949554896142434,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 1139.376112759644,
+  "ASR_by_paradigm": {
+   "Template-1": 0.061611374407582936,
+   "Template-2": 0.02119460500963391,
+   "Template-3": 0.02912621359223301
+  }
+ },
+ {
+  "setting": "server-separate@3",
+  "n": 1348,
+  "poison_in_prompt": 0.6995548961424333,
+  "ASR": 0.06157270029673591,
+  "ASR_given_poison_in_prompt": 0.088016967126193,
+  "direct_exec": 0.12759643916913946,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 3416.356824925816,
+  "ASR_by_paradigm": {
+   "Template-1": 0.061611374407582936,
+   "Template-2": 0.015414258188824663,
+   "Template-3": 0.10032362459546926
+  }
+ },
+ {
+  "setting": "server-separate@5",
+  "n": 1348,
+  "poison_in_prompt": 0.7908011869436202,
+  "ASR": 0.08160237388724036,
+  "ASR_given_poison_in_prompt": 0.10318949343339587,
+  "direct_exec": 0.1172106824925816,
+  "tools_removed_by_defense": 0.0,
+  "avg_prompt_tokens": 6408.706973293769,
+  "ASR_by_paradigm": {
+   "Template-1": 0.08530805687203792,
+   "Template-2": 0.038535645472061654,
+   "Template-3": 0.11650485436893204
+  }
+ }
+]

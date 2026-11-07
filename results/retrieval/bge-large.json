@@ -1,0 +1,73 @@
+{
+ "embedder": "bge-large",
+ "clean": {
+  "1": {
+   "tool": 0.7611940298507462,
+   "server": 0.8059701492537313
+  },
+  "3": {
+   "tool": 0.9104477611940298,
+   "server": 0.9477611940298507
+  },
+  "5": {
+   "tool": 0.9328358208955224,
+   "server": 0.9776119402985075
+  }
+ },
+ "attack": [
+  {
+   "setting": "tool",
+   "k": 1,
+   "poison_retrieved": 0.2707715133531157,
+   "co_retrieved": 0.01483679525222552
+  },
+  {
+   "setting": "tool",
+   "k": 3,
+   "poison_retrieved": 0.6335311572700296,
+   "co_retrieved": 0.4258160237388724
+  },
+  {
+   "setting": "tool",
+   "k": 5,
+   "poison_retrieved": 0.776706231454006,
+   "co_retrieved": 0.5867952522255193
+  },
+  {
+   "setting": "server/inside",
+   "k": 1,
+   "poison_retrieved": 0.7707715133531158,
+   "co_retrieved": 0.7707715133531158
+  },
+  {
+   "setting": "server/inside",
+   "k": 3,
+   "poison_retrieved": 0.9428783382789317,
+   "co_retrieved": 0.9428783382789317
+  },
+  {
+   "setting": "server/inside",
+   "k": 5,
+   "poison_retrieved": 0.9658753709198813,
+   "co_retrieved": 0.9658753709198813
+  },
+  {
+   "setting": "server/separate",
+   "k": 1,
+   "poison_retrieved": 0.2707715133531157,
+   "co_retrieved": 0.01483679525222552
+  },
+  {
+   "setting": "server/separate",
+   "k": 3,
+   "poison_retrieved": 0.7559347181008902,
+   "co_retrieved": 0.6186943620178041
+  },
+  {
+   "setting": "server/separate",
+   "k": 5,
+   "poison_retrieved": 0.865727002967359,
+   "co_retrieved": 0.7559347181008902
+  }
+ ]
+}

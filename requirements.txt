@@ -1,0 +1,8 @@
+# Tested with Python 3.12 on Linux with one NVIDIA A40 (CUDA 13 driver).
+# vLLM pins its own compatible torch build.
+vllm==0.32.0
+transformers==5.19.0
+sentence-transformers==6.2.0
+huggingface_hub==2.4.0
+numpy==2.3.5
+pytest==9.2.0

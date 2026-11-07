@@ -1,0 +1,21 @@
+{
+ "model": "mistral-7b",
+ "think": false,
+ "embedder": "bge-small",
+ "settings": [
+  "original",
+  "tool@1",
+  "tool@3",
+  "tool@5",
+  "server-inside@1",
+  "server-separate@3",
+  "server-separate@5"
+ ],
+ "variant": "llm",
+ "defense": true,
+ "limit": 0,
+ "tag": "",
+ "seed": 0,
+ "gpu_mem": 0.9,
+ "max_len": 32768
+}

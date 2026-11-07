@@ -1,0 +1,9 @@
+{
+ "rows": 13480,
+ "parsed_tool_call": 0.9799703264094956,
+ "cut_off_reasoning": 0.0,
+ "none_label_share": 0.0011895749972964205,
+ "ASR_original_ours": 0.06602373887240356,
+ "ASR_MCPTox_Llama-3.1-8B-Instruct": 0.14084507042253522,
+ "problems": []
+}

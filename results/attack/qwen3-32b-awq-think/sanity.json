@@ -1,0 +1,9 @@
+{
+ "rows": 9436,
+ "parsed_tool_call": 0.9206231454005934,
+ "cut_off_reasoning": 0.0046629927935565915,
+ "none_label_share": 0.008698353525939733,
+ "ASR_original_ours": 0.43768545994065283,
+ "ASR_MCPTox_qwen3-32b_Think": 0.5845229151014275,
+ "problems": []
+}

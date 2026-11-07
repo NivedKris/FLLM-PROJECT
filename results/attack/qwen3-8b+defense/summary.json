@@ -1,0 +1,107 @@
+[
+ {
+  "setting": "original",
+  "n": 1348,
+  "poison_in_prompt": 0.05415430267062315,
+  "ASR": 0.002967359050445104,
+  "ASR_given_poison_in_prompt": 0.0547945205479452,
+  "direct_exec": 0.017804154302670624,
+  "tools_removed_by_defense": 1.3338278931750742,
+  "avg_prompt_tokens": 1062.427299703264,
+  "ASR_by_paradigm": {
+   "Template-1": 0.0,
+   "Template-2": 0.0,
+   "Template-3": 0.006472491909385114
+  }
+ },
+ {
+  "setting": "tool@1",
+  "n": 1348,
+  "poison_in_prompt": 0.04154302670623145,
+  "ASR": 0.001483679525222552,
+  "ASR_given_poison_in_prompt": 0.03571428571428571,
+  "direct_exec": 0.039317507418397624,
+  "tools_removed_by_defense": 0.1943620178041543,
+  "avg_prompt_tokens": 258.75296735905044,
+  "ASR_by_paradigm": {
+   "Template-1": 0.004739336492890996,
+   "Template-2": 0.0,
+   "Template-3": 0.0016181229773462784
+  }
+ },
+ {
+  "setting": "tool@3",
+  "n": 1348,
+  "poison_in_prompt": 0.04673590504451038,
+  "ASR": 0.0,
+  "ASR_given_poison_in_prompt": 0.0,
+  "direct_exec": 0.03635014836795252,
+  "tools_removed_by_defense": 0.5756676557863502,
+  "avg_prompt_tokens": 411.1646884272997,
+  "ASR_by_paradigm": {
+   "Template-1": 0.0,
+   "Template-2": 0.0,
+   "Template-3": 0.0
+  }
+ },
+ {
+  "setting": "tool@5",
+  "n": 1348,
+  "poison_in_prompt": 0.05118694362017804,
+  "ASR": 0.000741839762611276,
+  "ASR_given_poison_in_prompt": 0.014492753623188406,
+  "direct_exec": 0.034866468842729974,
+  "tools_removed_by_defense": 0.7173590504451038,
+  "avg_prompt_tokens": 593.0215133531158,
+  "ASR_by_paradigm": {
+   "Template-1": 0.0,
+   "Template-2": 0.0,
+   "Template-3": 0.0016181229773462784
+  }
+ },
+ {
+  "setting": "server-inside@1",
+  "n": 1348,
+  "poison_in_prompt": 0.031899109792284865,
+  "ASR": 0.000741839762611276,
+  "ASR_given_poison_in_prompt": 0.023255813953488372,
+  "direct_exec": 0.013353115727002967,
+  "tools_removed_by_defense": 1.0356083086053411,
+  "avg_prompt_tokens": 1102.2700296735904,
+  "ASR_by_paradigm": {
+   "Template-1": 0.0,
+   "Template-2": 0.0,
+   "Template-3": 0.0016181229773462784
+  }
+ },
+ {
+  "setting": "server-separate@3",
+  "n": 1348,
+  "poison_in_prompt": 0.04599406528189911,
+  "ASR": 0.000741839762611276,
+  "ASR_given_poison_in_prompt": 0.016129032258064516,
+  "direct_exec": 0.02967359050445104,
+  "tools_removed_by_defense": 1.4161721068249258,
+  "avg_prompt_tokens": 2595.314540059347,
+  "ASR_by_paradigm": {
+   "Template-1": 0.0,
+   "Template-2": 0.0,
+   "Template-3": 0.0016181229773462784
+  }
+ },
+ {
+  "setting": "server-separate@5",
+  "n": 1348,
+  "poison_in_prompt": 0.052670623145400594,
+  "ASR": 0.000741839762611276,
+  "ASR_given_poison_in_prompt": 0.014084507042253521,
+  "direct_exec": 0.031899109792284865,
+  "tools_removed_by_defense": 2.298219584569733,
+  "avg_prompt_tokens": 4834.353115727003,
+  "ASR_by_paradigm": {
+   "Template-1": 0.0,
+   "Template-2": 0.0,
+   "Template-3": 0.0016181229773462784
+  }
+ }
+]

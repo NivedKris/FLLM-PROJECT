@@ -1,0 +1,50 @@
+# ---------------------------------------------------------------- not part of the repo
+# Research paper sources (kept private)
+paper/
+
+# Third-party data and papers: MCPTox has no licence file, so it is not
+# redistributed; ./run.sh --data downloads it. The RAG-MCP PDF is on arXiv.
+data/
+papers/
+
+# ---------------------------------------------------------------- environment / caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.cache/
+.claude/
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets (Hugging Face tokens etc. must never be committed)
+.env
+*.token
+hf_token*
+
+# ---------------------------------------------------------------- run outputs
+logs/
+nohup.out
+*.zip
+
+# Pipeline progress markers (machine-specific state)
+results/.pipeline/
+
+# Raw model outputs: too large for GitHub (~800 MB) and they quote MCPTox's
+# poisoned tool descriptions. Summaries (summary.json, sanity.json, meta.json),
+# results/REPORT.md, retrieval/ and defense/ stats are kept.
+results/attack/*/responses.jsonl
+results/attack/*/labels.jsonl
+results/attack/*+smoke/
+results/clean/*/responses*.jsonl
+results/clean/*/labels*.jsonl
+
+# Files that contain MCPTox queries or (rewritten) poison text
+results/clean/gold.json
+results/poison_variants/
+results/references/
+results/human_check.csv
+results/human_check_key.json

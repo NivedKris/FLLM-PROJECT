@@ -1,0 +1,122 @@
+[
+ {
+  "setting": "server",
+  "n": 310,
+  "accuracy": 0.9419354838709677,
+  "gold_in_prompt": 0.9612903225806452,
+  "acc_given_gold_in": 0.9798657718120806,
+  "avg_tools": 10.729032258064516,
+  "avg_prompt_tokens": 1204.7774193548387,
+  "avg_completion_tokens": 42.23548387096774
+ },
+ {
+  "setting": "all",
+  "n": 310,
+  "accuracy": 0.7290322580645161,
+  "gold_in_prompt": 0.9548387096774194,
+  "acc_given_gold_in": 0.7635135135135135,
+  "avg_tools": 347.0,
+  "avg_prompt_tokens": 31251.858064516127,
+  "avg_completion_tokens": 42.04838709677419
+ },
+ {
+  "setting": "random-5",
+  "n": 310,
+  "accuracy": 0.9161290322580645,
+  "gold_in_prompt": 0.9612903225806452,
+  "acc_given_gold_in": 0.9530201342281879,
+  "avg_tools": 40.19032258064516,
+  "avg_prompt_tokens": 3914.4129032258065,
+  "avg_completion_tokens": 41.53225806451613
+ },
+ {
+  "setting": "random-10",
+  "n": 310,
+  "accuracy": 0.8741935483870967,
+  "gold_in_prompt": 0.9612903225806452,
+  "acc_given_gold_in": 0.9093959731543624,
+  "avg_tools": 79.63225806451612,
+  "avg_prompt_tokens": 7706.354838709677,
+  "avg_completion_tokens": 42.05161290322581
+ },
+ {
+  "setting": "random-20",
+  "n": 310,
+  "accuracy": 0.832258064516129,
+  "gold_in_prompt": 0.9580645161290322,
+  "acc_given_gold_in": 0.8686868686868687,
+  "avg_tools": 157.51290322580644,
+  "avg_prompt_tokens": 14394.429032258064,
+  "avg_completion_tokens": 42.91612903225806
+ },
+ {
+  "setting": "random-30",
+  "n": 310,
+  "accuracy": 0.7967741935483871,
+  "gold_in_prompt": 0.9548387096774194,
+  "acc_given_gold_in": 0.8344594594594594,
+  "avg_tools": 233.50967741935483,
+  "avg_prompt_tokens": 21235.322580645163,
+  "avg_completion_tokens": 41.71612903225807
+ },
+ {
+  "setting": "tool@1",
+  "n": 310,
+  "accuracy": 0.6225806451612903,
+  "gold_in_prompt": 0.6225806451612903,
+  "acc_given_gold_in": 1.0,
+  "avg_tools": 0.9903225806451613,
+  "avg_prompt_tokens": 284.10322580645163,
+  "avg_completion_tokens": 38.829032258064515
+ },
+ {
+  "setting": "tool@3",
+  "n": 310,
+  "accuracy": 0.7387096774193549,
+  "gold_in_prompt": 0.7548387096774194,
+  "acc_given_gold_in": 0.9786324786324786,
+  "avg_tools": 2.964516129032258,
+  "avg_prompt_tokens": 474.0387096774194,
+  "avg_completion_tokens": 40.47741935483871
+ },
+ {
+  "setting": "tool@5",
+  "n": 310,
+  "accuracy": 0.7516129032258064,
+  "gold_in_prompt": 0.7903225806451613,
+  "acc_given_gold_in": 0.9510204081632653,
+  "avg_tools": 4.922580645161291,
+  "avg_prompt_tokens": 673.2387096774194,
+  "avg_completion_tokens": 40.71612903225807
+ },
+ {
+  "setting": "server@1",
+  "n": 310,
+  "accuracy": 0.6806451612903226,
+  "gold_in_prompt": 0.6838709677419355,
+  "acc_given_gold_in": 0.9952830188679245,
+  "avg_tools": 11.55483870967742,
+  "avg_prompt_tokens": 1282.9967741935484,
+  "avg_completion_tokens": 41.1258064516129
+ },
+ {
+  "setting": "server@3",
+  "n": 310,
+  "accuracy": 0.7612903225806451,
+  "gold_in_prompt": 0.8193548387096774,
+  "acc_given_gold_in": 0.9291338582677166,
+  "avg_tools": 36.55161290322581,
+  "avg_prompt_tokens": 3671.467741935484,
+  "avg_completion_tokens": 42.3741935483871
+ },
+ {
+  "setting": "server@5",
+  "n": 310,
+  "accuracy": 0.7774193548387097,
+  "gold_in_prompt": 0.8451612903225807,
+  "acc_given_gold_in": 0.9198473282442748,
+  "avg_tools": 59.20645161290322,
+  "avg_prompt_tokens": 6008.358064516129,
+  "avg_completion_tokens": 42.12903225806452
+ }
+]

@@ -1,0 +1,197 @@
+{
+ "instructions>=1": {
+  "clean_fp": 0.08287292817679558,
+  "clean_fp_tools": [
+   "FileSystem/read_file",
+   "FileSystem/read_multiple_files",
+   "Claude Post/send-email",
+   "HyperBrowser/browser_use_agent",
+   "Sequential Thinking/sequentialthinking",
+   "Commander/set_config_value",
+   "Commander/read_file",
+   "Commander/read_multiple_files",
+   "Commander/write_file",
+   "Commander/create_directory",
+   "Commander/list_directory",
+   "Commander/move_file",
+   "Commander/search_files",
+   "Commander/search_code",
+   "Commander/get_file_info",
+   "Commander/edit_block",
+   "Commander/execute_command",
+   "Sentry/get_sentry_issue",
+   "Apify/get-dataset-items",
+   "Apify/search-actors",
+   "Apify/apify-slash-rag-web-browser",
+   "OP.GG/lol-champion-analysis",
+   "OP.GG/lol-summoner-search",
+   "OP.GG/lol-summoner-game-history",
+   "OP.GG/lol-summoner-renewal",
+   "Codacy/codacy_search_organization_srm_items",
+   "Codacy/codacy_search_repository_srm_items",
+   "Prisma/migrate-dev",
+   "Prisma/Prisma-Postgres-account-status",
+   "Prisma/Create-Prisma-Postgres-Database"
+  ],
+  "detect_original": 0.9681008902077152,
+  "detect_original_by_paradigm": {
+   "Template-1": 0.9289099526066351,
+   "Template-2": 0.9961464354527938,
+   "Template-3": 0.9579288025889967
+  },
+  "detect_mimic": 0.9688427299703264,
+  "detect_mimic_by_paradigm": {
+   "Template-1": 0.9289099526066351,
+   "Template-2": 0.9961464354527938,
+   "Template-3": 0.959546925566343
+  },
+  "detect_llm": 0.9035608308605341,
+  "detect_llm_by_paradigm": {
+   "Template-1": 0.8436018957345972,
+   "Template-2": 0.9865125240847784,
+   "Template-3": 0.8543689320388349
+  }
+ },
+ "instructions>=2": {
+  "clean_fp": 0.0055248618784530384,
+  "clean_fp_tools": [
+   "OP.GG/lol-champion-analysis",
+   "Prisma/migrate-dev"
+  ],
+  "detect_original": 0.8538575667655787,
+  "detect_original_by_paradigm": {
+   "Template-1": 0.7725118483412322,
+   "Template-2": 0.9171483622350675,
+   "Template-3": 0.8284789644012945
+  },
+  "detect_mimic": 0.8568249258160238,
+  "detect_mimic_by_paradigm": {
+   "Template-1": 0.7772511848341233,
+   "Template-2": 0.9171483622350675,
+   "Template-3": 0.8333333333333334
+  },
+  "detect_llm": 0.7433234421364985,
+  "detect_llm_by_paradigm": {
+   "Template-1": 0.7061611374407583,
+   "Template-2": 0.8400770712909441,
+   "Template-3": 0.6747572815533981
+  }
+ },
+ "names+instr": {
+  "clean_fp": 0.016574585635359115,
+  "clean_fp_tools": [
+   "Commander/write_file",
+   "Commander/list_directory",
+   "Commander/search_files",
+   "Commander/search_code",
+   "Apify/apify-slash-rag-web-browser",
+   "Codacy/codacy_search_repository_srm_items"
+  ],
+  "detect_original": 0.887240356083086,
+  "detect_original_by_paradigm": {
+   "Template-1": 0.919431279620853,
+   "Template-2": 0.9826589595375722,
+   "Template-3": 0.7961165048543689
+  },
+  "detect_mimic": 0.8946587537091988,
+  "detect_mimic_by_paradigm": {
+   "Template-1": 0.9289099526066351,
+   "Template-2": 0.9826589595375722,
+   "Template-3": 0.8090614886731392
+  },
+  "detect_llm": 0.8219584569732937,
+  "detect_llm_by_paradigm": {
+   "Template-1": 0.8246445497630331,
+   "Template-2": 0.9730250481695568,
+   "Template-3": 0.6941747572815534
+  }
+ },
+ "near-copy>=0.93": {
+  "clean_fp": 0.0055248618784530384,
+  "clean_fp_tools": [
+   "Codacy/codacy_search_organization_srm_items",
+   "Codacy/codacy_search_repository_srm_items"
+  ],
+  "detect_original": 0.0,
+  "detect_original_by_paradigm": {
+   "Template-1": 0.0,
+   "Template-2": 0.0,
+   "Template-3": 0.0
+  },
+  "detect_mimic": 0.14094955489614244,
+  "detect_mimic_by_paradigm": {
+   "Template-1": 0.2132701421800948,
+   "Template-2": 0.09441233140655106,
+   "Template-3": 0.1553398058252427
+  },
+  "detect_llm": 0.045252225519287835,
+  "detect_llm_by_paradigm": {
+   "Template-1": 0.02843601895734597,
+   "Template-2": 0.03275529865125241,
+   "Template-3": 0.061488673139158574
+  }
+ },
+ "near-copy>=0.85": {
+  "clean_fp": 0.022099447513812154,
+  "clean_fp_tools": [
+   "HyperBrowser/browser_use_agent",
+   "Commander/read_file",
+   "Commander/read_multiple_files",
+   "OP.GG/lol-champion-analysis",
+   "OP.GG/lol-summoner-search",
+   "OP.GG/lol-summoner-game-history",
+   "Codacy/codacy_search_organization_srm_items",
+   "Codacy/codacy_search_repository_srm_items"
+  ],
+  "detect_original": 0.012611275964391691,
+  "detect_original_by_paradigm": {
+   "Template-1": 0.0,
+   "Template-2": 0.017341040462427744,
+   "Template-3": 0.012944983818770227
+  },
+  "detect_mimic": 0.4547477744807122,
+  "detect_mimic_by_paradigm": {
+   "Template-1": 0.3791469194312796,
+   "Template-2": 0.4951830443159923,
+   "Template-3": 0.44660194174757284
+  },
+  "detect_llm": 0.19658753709198812,
+  "detect_llm_by_paradigm": {
+   "Template-1": 0.14218009478672985,
+   "Template-2": 0.17726396917148363,
+   "Template-3": 0.2313915857605178
+  }
+ },
+ "full (default)": {
+  "clean_fp": 0.024861878453038673,
+  "clean_fp_tools": [
+   "Commander/write_file",
+   "Commander/list_directory",
+   "Commander/search_files",
+   "Commander/search_code",
+   "Apify/apify-slash-rag-web-browser",
+   "OP.GG/lol-champion-analysis",
+   "Codacy/codacy_search_organization_srm_items",
+   "Codacy/codacy_search_repository_srm_items",
+   "Prisma/migrate-dev"
+  ],
+  "detect_original": 0.9458456973293768,
+  "detect_original_by_paradigm": {
+   "Template-1": 0.919431279620853,
+   "Template-2": 0.9884393063583815,
+   "Template-3": 0.919093851132686
+  },
+  "detect_mimic": 0.9495548961424333,
+  "detect_mimic_by_paradigm": {
+   "Template-1": 0.9289099526066351,
+   "Template-2": 0.9884393063583815,
+   "Template-3": 0.9239482200647249
+  },
+  "detect_llm": 0.8620178041543026,
+  "detect_llm_by_paradigm": {
+   "Template-1": 0.8246445497630331,
+   "Template-2": 0.9788053949903661,
+   "Template-3": 0.7766990291262136
+  }
+ }
+}

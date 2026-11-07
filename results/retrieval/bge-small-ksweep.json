@@ -1,0 +1,227 @@
+{
+ "embedder": "bge-small",
+ "clean": {
+  "1": {
+   "tool": 0.7985074626865671,
+   "server": 0.8432835820895522
+  },
+  "2": {
+   "tool": 0.8805970149253731,
+   "server": 0.9253731343283582
+  },
+  "3": {
+   "tool": 0.8955223880597015,
+   "server": 0.9402985074626866
+  },
+  "4": {
+   "tool": 0.9029850746268657,
+   "server": 0.9477611940298507
+  },
+  "5": {
+   "tool": 0.9253731343283582,
+   "server": 0.9626865671641791
+  },
+  "6": {
+   "tool": 0.9253731343283582,
+   "server": 0.9701492537313433
+  },
+  "7": {
+   "tool": 0.9328358208955224,
+   "server": 0.9701492537313433
+  },
+  "8": {
+   "tool": 0.9328358208955224,
+   "server": 0.9776119402985075
+  },
+  "9": {
+   "tool": 0.9402985074626866,
+   "server": 0.9925373134328358
+  },
+  "10": {
+   "tool": 0.9477611940298507,
+   "server": 0.9925373134328358
+  }
+ },
+ "attack": [
+  {
+   "setting": "tool",
+   "k": 1,
+   "poison_retrieved": 0.23590504451038577,
+   "co_retrieved": 0.01112759643916914
+  },
+  {
+   "setting": "tool",
+   "k": 2,
+   "poison_retrieved": 0.4762611275964392,
+   "co_retrieved": 0.27225519287833827
+  },
+  {
+   "setting": "tool",
+   "k": 3,
+   "poison_retrieved": 0.5838278931750742,
+   "co_retrieved": 0.3805637982195846
+  },
+  {
+   "setting": "tool",
+   "k": 4,
+   "poison_retrieved": 0.6528189910979229,
+   "co_retrieved": 0.45326409495548964
+  },
+  {
+   "setting": "tool",
+   "k": 5,
+   "poison_retrieved": 0.6921364985163204,
+   "co_retrieved": 0.4977744807121662
+  },
+  {
+   "setting": "tool",
+   "k": 6,
+   "poison_retrieved": 0.7321958456973294,
+   "co_retrieved": 0.5437685459940653
+  },
+  {
+   "setting": "tool",
+   "k": 7,
+   "poison_retrieved": 0.7537091988130564,
+   "co_retrieved": 0.5586053412462908
+  },
+  {
+   "setting": "tool",
+   "k": 8,
+   "poison_retrieved": 0.7759643916913946,
+   "co_retrieved": 0.5867952522255193
+  },
+  {
+   "setting": "tool",
+   "k": 9,
+   "poison_retrieved": 0.7908011869436202,
+   "co_retrieved": 0.607566765578635
+  },
+  {
+   "setting": "tool",
+   "k": 10,
+   "poison_retrieved": 0.8130563798219584,
+   "co_retrieved": 0.6379821958456974
+  },
+  {
+   "setting": "server/inside",
+   "k": 1,
+   "poison_retrieved": 0.7737388724035609,
+   "co_retrieved": 0.7737388724035609
+  },
+  {
+   "setting": "server/inside",
+   "k": 2,
+   "poison_retrieved": 0.8649851632047477,
+   "co_retrieved": 0.8649851632047477
+  },
+  {
+   "setting": "server/inside",
+   "k": 3,
+   "poison_retrieved": 0.9020771513353115,
+   "co_retrieved": 0.9020771513353115
+  },
+  {
+   "setting": "server/inside",
+   "k": 4,
+   "poison_retrieved": 0.9369436201780416,
+   "co_retrieved": 0.9369436201780416
+  },
+  {
+   "setting": "server/inside",
+   "k": 5,
+   "poison_retrieved": 0.9458456973293768,
+   "co_retrieved": 0.9458456973293768
+  },
+  {
+   "setting": "server/inside",
+   "k": 6,
+   "poison_retrieved": 0.9547477744807121,
+   "co_retrieved": 0.9547477744807121
+  },
+  {
+   "setting": "server/inside",
+   "k": 7,
+   "poison_retrieved": 0.9562314540059347,
+   "co_retrieved": 0.9562314540059347
+  },
+  {
+   "setting": "server/inside",
+   "k": 8,
+   "poison_retrieved": 0.9643916913946587,
+   "co_retrieved": 0.9643916913946587
+  },
+  {
+   "setting": "server/inside",
+   "k": 9,
+   "poison_retrieved": 0.9747774480712166,
+   "co_retrieved": 0.9747774480712166
+  },
+  {
+   "setting": "server/inside",
+   "k": 10,
+   "poison_retrieved": 0.9747774480712166,
+   "co_retrieved": 0.9747774480712166
+  },
+  {
+   "setting": "server/separate",
+   "k": 1,
+   "poison_retrieved": 0.23590504451038577,
+   "co_retrieved": 0.01112759643916914
+  },
+  {
+   "setting": "server/separate",
+   "k": 2,
+   "poison_retrieved": 0.5764094955489614,
+   "co_retrieved": 0.41839762611275966
+  },
+  {
+   "setting": "server/separate",
+   "k": 3,
+   "poison_retrieved": 0.6995548961424333,
+   "co_retrieved": 0.5600890207715133
+  },
+  {
+   "setting": "server/separate",
+   "k": 4,
+   "poison_retrieved": 0.7544510385756676,
+   "co_retrieved": 0.6327893175074184
+  },
+  {
+   "setting": "server/separate",
+   "k": 5,
+   "poison_retrieved": 0.7908011869436202,
+   "co_retrieved": 0.6810089020771514
+  },
+  {
+   "setting": "server/separate",
+   "k": 6,
+   "poison_retrieved": 0.8086053412462908,
+   "co_retrieved": 0.7077151335311572
+  },
+  {
+   "setting": "server/separate",
+   "k": 7,
+   "poison_retrieved": 0.8405044510385756,
+   "co_retrieved": 0.7418397626112759
+  },
+  {
+   "setting": "server/separate",
+   "k": 8,
+   "poison_retrieved": 0.8560830860534124,
+   "co_retrieved": 0.7648367952522255
+  },
+  {
+   "setting": "server/separate",
+   "k": 9,
+   "poison_retrieved": 0.8701780415430267,
+   "co_retrieved": 0.7848664688427299
+  },
+  {
+   "setting": "server/separate",
+   "k": 10,
+   "poison_retrieved": 0.879080118694362,
+   "co_retrieved": 0.8071216617210683
+  }
+ ]
+}

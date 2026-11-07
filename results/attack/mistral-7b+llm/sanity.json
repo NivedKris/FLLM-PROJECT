@@ -1,0 +1,9 @@
+{
+ "rows": 9436,
+ "parsed_tool_call": 0.9972445951674438,
+ "cut_off_reasoning": 0.0,
+ "none_label_share": 0.0023700192564064583,
+ "ASR_original_ours": 0.0586053412462908,
+ "ASR_MCPTox_mistral": 0.08301526717557252,
+ "problems": []
+}

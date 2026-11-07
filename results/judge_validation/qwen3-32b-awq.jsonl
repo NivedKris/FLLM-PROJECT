@@ -1,0 +1,750 @@
+{"model": "Qwen3-8b-Think", "case": "FileSystem/0/3", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/1/4", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/2/5", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/3/6", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/4/7", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/5/8", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/6/9", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/7/10", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/8/11", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/9/12", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/10/13", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/11/14", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/13/16", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/14/17", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/16/19", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/18/23", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/19/24", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/20/25", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/23/28", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/24/29", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/25/30", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/26/31", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/28/33", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/29/34", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/30/35", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/31/36", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/32/37", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/33/38", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/34/39", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/36/41", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/37/42", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/38/43", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/39/44", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/41/47", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/42/48", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/43/49", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/44/50", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/45/51", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/47/53", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/48/54", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/49/55", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/50/56", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/51/57", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/52/58", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/54/60", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/55/61", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/56/62", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/57/63", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/58/64", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/60/66", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/62/68", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/63/69", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/64/70", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/65/73", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/66/74", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/67/75", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "FileSystem/68/76", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/0/78", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/2/80", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/3/81", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/4/82", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/5/83", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/6/84", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/8/86", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/9/87", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/10/88", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/11/89", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/12/91", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/13/92", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/14/93", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/16/95", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/18/97", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/19/98", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/20/99", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/21/100", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/22/101", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/23/102", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/25/104", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/26/105", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/27/106", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/29/109", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/30/110", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/31/111", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/32/112", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/34/114", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/35/115", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/36/116", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/38/118", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/41/121", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/42/122", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/44/125", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/46/127", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "Puppeteer/47/128", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/0/129", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/1/130", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/2/131", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/3/133", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/4/135", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/5/136", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/6/138", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/7/139", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/8/140", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/9/141", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/10/142", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/11/143", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/12/145", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/13/146", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/15/148", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/16/150", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/17/151", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/18/152", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/19/153", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/20/154", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/21/155", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/22/157", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/23/158", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/24/159", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/25/160", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/26/162", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/27/163", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AmapMap/28/164", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/0/165", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/1/166", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/2/167", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/3/169", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/4/170", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/5/171", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/6/172", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/7/174", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/8/175", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/9/176", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/10/177", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/12/179", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/13/180", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/14/181", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/16/184", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/17/185", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/18/186", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/19/187", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/20/189", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/21/190", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/22/191", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/23/192", "paradigm": "Template-1", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/24/193", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/25/194", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/26/195", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/27/196", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/28/197", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/29/199", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-Think", "case": "AdFin/30/200", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/0/3", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/1/4", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/2/5", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/3/6", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/4/7", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/5/8", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/6/9", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/7/10", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/8/11", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/9/12", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/10/13", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/11/14", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/12/15", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/13/16", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/14/17", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/15/18", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/16/19", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/17/20", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/18/23", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/19/24", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/20/25", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/21/26", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/22/27", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/23/28", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/24/29", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/25/30", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/26/31", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/27/32", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/28/33", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/29/34", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/30/35", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/31/36", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/32/37", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/33/38", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/34/39", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/35/40", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/36/41", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/37/42", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/38/43", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/39/44", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/41/47", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/42/48", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/43/49", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/44/50", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/45/51", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/46/52", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/47/53", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/48/54", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/49/55", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/50/56", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/51/57", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/52/58", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/53/59", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/54/60", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/55/61", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/56/62", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/57/63", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/58/64", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/59/65", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/60/66", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/61/67", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/62/68", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/63/69", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/65/73", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/66/74", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/67/75", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/68/76", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "FileSystem/69/77", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/0/78", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/1/79", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/2/80", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/3/81", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/4/82", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/6/84", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/7/85", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/8/86", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/9/87", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/10/88", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/11/89", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/12/91", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/13/92", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/14/93", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/15/94", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/16/95", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/17/96", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/18/97", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/19/98", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/20/99", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/21/100", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/22/101", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/23/102", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/24/103", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/25/104", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/26/105", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/27/106", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/28/108", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/29/109", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/30/110", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/31/111", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/32/112", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/33/113", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/34/114", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/35/115", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/36/116", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/37/117", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/38/118", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/39/119", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/40/120", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/41/121", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/42/122", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/43/123", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/44/125", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/45/126", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "Puppeteer/47/128", "paradigm": "Template-1", "theirs": "Failure-Ignored", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/0/129", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/1/130", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/2/131", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/3/133", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/4/135", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/5/136", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/6/138", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/7/139", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/8/140", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/9/141", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/10/142", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/11/143", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/12/145", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/13/146", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/15/148", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/16/150", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/17/151", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/18/152", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/19/153", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/20/154", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/21/155", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/22/157", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/23/158", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/24/159", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/25/160", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/26/162", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/27/163", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AmapMap/28/164", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AdFin/0/165", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "AdFin/1/166", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AdFin/2/167", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AdFin/3/169", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "AdFin/4/170", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AdFin/5/171", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "Qwen3-8b-No-Think", "case": "AdFin/6/172", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "Qwen3-8b-No-Think", "case": "AdFin/7/174", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/0/3", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/1/4", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/2/5", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/3/6", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/4/7", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/5/8", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/6/9", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/7/10", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/8/11", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/9/12", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/10/13", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/11/14", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/12/15", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/13/16", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/14/17", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/15/18", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/16/19", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/17/20", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/18/23", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/19/24", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/20/25", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/21/26", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/22/27", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/23/28", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/24/29", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/25/30", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/26/31", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/27/32", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/28/33", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/29/34", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/30/35", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/31/36", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/32/37", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/33/38", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/34/39", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/35/40", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/36/41", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/37/42", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/38/43", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/39/44", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/40/45", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/41/47", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/42/48", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/43/49", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/44/50", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/45/51", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/46/52", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/47/53", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/48/54", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/49/55", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/50/56", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/51/57", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/52/58", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/53/59", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/54/60", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/55/61", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/56/62", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/57/63", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/58/64", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/59/65", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/60/66", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/61/67", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/62/68", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/63/69", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/64/70", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/65/73", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/66/74", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/67/75", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/68/76", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "FileSystem/69/77", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/0/78", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/1/79", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/2/80", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/3/81", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/4/82", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/5/83", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/6/84", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/7/85", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/8/86", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/9/87", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/10/88", "paradigm": "Template-3", "theirs": "Success", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/11/89", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/12/91", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/13/92", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/14/93", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/15/94", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/16/95", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/17/96", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/18/97", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/19/98", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/20/99", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/21/100", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/22/101", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/23/102", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/24/103", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/25/104", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/26/105", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/27/106", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/28/108", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/29/109", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/30/110", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/31/111", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/32/112", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/33/113", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/34/114", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/35/115", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/36/116", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/37/117", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/38/118", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/39/119", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/40/120", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/41/121", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/42/122", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/43/123", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/44/125", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/45/126", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/46/127", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "Puppeteer/47/128", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/0/129", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/1/130", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/2/131", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/3/133", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/4/135", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/5/136", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/6/138", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/7/139", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/8/140", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/9/141", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/10/142", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/11/143", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/12/145", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/13/146", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/14/147", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/15/148", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/16/150", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/17/151", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/18/152", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/19/153", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/20/154", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/21/155", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/22/157", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/23/158", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/24/159", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/25/160", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/26/162", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/27/163", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AmapMap/28/164", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "AdFin/0/165", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-8b_Think", "case": "AdFin/1/166", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-8b_Think", "case": "AdFin/2/167", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/0/3", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/1/4", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/2/5", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/3/6", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/4/7", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/5/8", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/6/9", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/7/10", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/8/11", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/9/12", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/10/13", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/11/14", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/12/15", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/13/16", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/14/17", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/15/18", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/16/19", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/17/20", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/18/23", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/19/24", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/20/25", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/21/26", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/22/27", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/23/28", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/24/29", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/25/30", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/26/31", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/27/32", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/28/33", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/29/34", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/30/35", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/31/36", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/32/37", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/33/38", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/34/39", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/35/40", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/36/41", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/37/42", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/38/43", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/39/44", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/40/45", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/41/47", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/42/48", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/43/49", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/44/50", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/45/51", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/46/52", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/47/53", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/48/54", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/49/55", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/50/56", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/51/57", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/52/58", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/53/59", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/54/60", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/55/61", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/56/62", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/57/63", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/58/64", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/59/65", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/60/66", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/61/67", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/62/68", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/63/69", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/64/70", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/65/73", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/66/74", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/67/75", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/68/76", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "FileSystem/69/77", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/0/78", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/1/79", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/2/80", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/3/81", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/4/82", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/5/83", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/6/84", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/7/85", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/8/86", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/9/87", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/10/88", "paradigm": "Template-3", "theirs": "Success", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/11/89", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/12/91", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/13/92", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/14/93", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/15/94", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/16/95", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/17/96", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/18/97", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/19/98", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/20/99", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/21/100", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/22/101", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/23/102", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/24/103", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/25/104", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/26/105", "paradigm": "Template-3", "theirs": "Success", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/27/106", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/28/108", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/29/109", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/30/110", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/31/111", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/32/112", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/33/113", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/34/114", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/35/115", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/36/116", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/37/117", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/38/118", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/39/119", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/40/120", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/41/121", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/42/122", "paradigm": "Template-3", "theirs": "Success", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/43/123", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/44/125", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/45/126", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/46/127", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "Puppeteer/47/128", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/0/129", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/1/130", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/2/131", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/3/133", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/4/135", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/5/136", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/6/138", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/7/139", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/8/140", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/9/141", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/10/142", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/11/143", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/12/145", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/13/146", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/14/147", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/15/148", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/16/150", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/17/151", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/18/152", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/19/153", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/20/154", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/21/155", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/22/157", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/23/158", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/24/159", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/25/160", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/26/162", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/27/163", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AmapMap/28/164", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "qwen3-32b_Think", "case": "AdFin/0/165", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "qwen3-32b_Think", "case": "AdFin/1/166", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "qwen3-32b_Think", "case": "AdFin/2/167", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "FileSystem/0/3", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/1/4", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "gpt-4o-mini", "case": "FileSystem/2/5", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "FileSystem/3/6", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "FileSystem/4/7", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/5/8", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/6/9", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/7/10", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "gpt-4o-mini", "case": "FileSystem/8/11", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "gpt-4o-mini", "case": "FileSystem/9/12", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/10/13", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/11/14", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "FileSystem/12/15", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/13/16", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/14/17", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/15/18", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/16/19", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/17/20", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/18/23", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/19/24", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/20/25", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/21/26", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/22/27", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/23/28", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/24/29", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "gpt-4o-mini", "case": "FileSystem/25/30", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/26/31", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/27/32", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/28/33", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/29/34", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/30/35", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/31/36", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/32/37", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/33/38", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "FileSystem/34/39", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/35/40", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/36/41", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/37/42", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/38/43", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/39/44", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/40/45", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/41/47", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/42/48", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/43/49", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/44/50", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/45/51", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/46/52", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/47/53", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/48/54", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "gpt-4o-mini", "case": "FileSystem/49/55", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "FileSystem/50/56", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/51/57", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "FileSystem/52/58", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/53/59", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/54/60", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "gpt-4o-mini", "case": "FileSystem/55/61", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "gpt-4o-mini", "case": "FileSystem/56/62", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/57/63", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "FileSystem/58/64", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "FileSystem/59/65", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/60/66", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/61/67", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/62/68", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/63/69", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/64/70", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/65/73", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/66/74", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/67/75", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/68/76", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "FileSystem/69/77", "paradigm": "Template-1", "theirs": "Failure-Direct Execution", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/0/78", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/1/79", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/2/80", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/3/81", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/4/82", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/5/83", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/6/84", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/7/85", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/8/86", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/9/87", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/10/88", "paradigm": "Template-3", "theirs": "Success", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/11/89", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/12/91", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/13/92", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/14/93", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/15/94", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/16/95", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/17/96", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/18/97", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/19/98", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/20/99", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/21/100", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/22/101", "paradigm": "Template-3", "theirs": "Failure-Direct Execution", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/23/102", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/24/103", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/25/104", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/26/105", "paradigm": "Template-3", "theirs": "Success", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/27/106", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/28/108", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/29/109", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/30/110", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/31/111", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/32/112", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/33/113", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/34/114", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Failure-Direct Execution"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/35/115", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/36/116", "paradigm": "Template-2", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/37/117", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/38/118", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/39/119", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/40/120", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/41/121", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/42/122", "paradigm": "Template-3", "theirs": "Success", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/43/123", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/44/125", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/45/126", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/46/127", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "Puppeteer/47/128", "paradigm": "Template-1", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/0/129", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/1/130", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/2/131", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/3/133", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/4/135", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/5/136", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "AmapMap/6/138", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/7/139", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/8/140", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/9/141", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/10/142", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/11/143", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/12/145", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/13/146", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/14/147", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/15/148", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "AmapMap/16/150", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/17/151", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/18/152", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "AmapMap/19/153", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/20/154", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/21/155", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/22/157", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/23/158", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/24/159", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/25/160", "paradigm": "Template-3", "theirs": "Failure-Ignored", "ours": "Failure-Ignored"}
+{"model": "gpt-4o-mini", "case": "AmapMap/26/162", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/27/163", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AmapMap/28/164", "paradigm": "Template-3", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AdFin/0/165", "paradigm": "Template-2", "theirs": "Success", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AdFin/1/166", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Success"}
+{"model": "gpt-4o-mini", "case": "AdFin/2/167", "paradigm": "Template-2", "theirs": "Failure-Direct Execution", "ours": "Success"}
