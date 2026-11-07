@@ -147,6 +147,55 @@ All models are served with vLLM 0.32. Qwen3-32B-AWQ is also the judge, the label
 - **Retrievers:** `bge-small-en-v1.5` (main), `e5-base-v2` and `bge-large-en-v1.5`.
 - **Context:** prompts with all 362 tools (~37k tokens) use YaRN for Qwen3; Mistral and Phi-4 skip them because they don't fit in a 32k window.
 
+## Experimental setup (exact hardware and software)
+
+All results come from one server, run from 2 to 7 November 2026.
+
+**Hardware**
+
+| Component | Details |
+|---|---|
+| GPU | 1× **NVIDIA A40**: Ampere GA102, compute capability 8.6, 48 GB GDDR6 (46,068 MiB usable), 300 W, PCIe 4.0 ×16 |
+| CPU | 2× AMD EPYC 7302 (16 cores each; 32 cores / 64 threads in total, 2 NUMA nodes) |
+| RAM | 123 GiB |
+| Storage | 3.6 TB disk; model weights about 115 GB |
+| OS | Ubuntu 26.04 LTS, Linux kernel 7.0.0 |
+| Access | Regular user account (no root); everything runs in a user-level Python environment |
+
+**Software**
+
+| Component | Version |
+|---|---|
+| NVIDIA driver / CUDA | 595.99.02 / 13.2 |
+| Python | 3.12.13 (environment created with uv) |
+| vLLM | 0.32.0 (offline batch mode, FlashAttention backend) |
+| PyTorch | 2.13.0+cu132 (cuDNN 9.2) |
+| Transformers | 5.19.0 |
+| sentence-transformers | 6.2.0 (embedding models run on the **CPU**) |
+| Triton / FlashInfer | 3.7.1 / 0.7.0.post1 |
+
+**vLLM configuration (all runs)**
+- GPU memory use 0.90 and seed 0, with prefix caching and chunked prefill on (vLLM defaults) and CUDA graphs.
+- Context length: 32,768 tokens for attack runs, 8,192 for judging, and 65,536 with YaRN for the long clean-accuracy prompts.
+- Identical prompts are deduplicated before generation. For example, the full 10-setting grid (13,480 case–setting pairs) needs 8,961 unique prompts.
+
+**Memory and speed per model**, measured on the A40 during each model's main attack run:
+
+| Model | Weights | Weight memory | KV cache | KV cache capacity | Main attack run | Wall time | Throughput (in / out tok/s) |
+|---|---|---:|---:|---:|---|---:|---:|
+| Qwen3-8B | BF16 | 15.3 GiB | 22.8 GiB | 165,696 tokens | 8,961 prompts, no thinking | 0 h 45 m | 9,351 / 116 |
+| Qwen3-8B | BF16 | 15.3 GiB | 23.3 GiB | 169,520 tokens | 8,961 prompts, thinking | 5 h 05 m | 1,368 / 425 |
+| Mistral-7B-Instruct-v0.3 | BF16 | 13.5 GiB | 25.1 GiB | 205,392 tokens | 8,961 prompts | 1 h 01 m | 8,113 / 193 |
+| Llama-3.1-8B-Instruct | BF16 | 15.0 GiB | 23.5 GiB | 192,336 tokens | 8,961 prompts | 0 h 44 m | 9,597 / 131 |
+| Qwen3-32B-AWQ | AWQ 4-bit (FP16, Marlin kernels) | 18.2 GiB | 19.2 GiB | 78,672 tokens | 8,961 prompts, no thinking | 3 h 10 m | 2,199 / 29 |
+| Qwen3-32B-AWQ | AWQ 4-bit (FP16, Marlin kernels) | 18.2 GiB | 19.2 GiB | 78,672 tokens | 6,263 prompts, thinking | 4 h 09 m | 810 / 222 |
+| Phi-4-reasoning | FP8 weight-only (Marlin kernels) | 15.2 GiB | 23.0 GiB | 120,512 tokens | 6,263 prompts | 7 h 47 m | 482 / 391 |
+
+- **Judging:** the judge (Qwen3-32B-AWQ with thinking) handles a typical run in 10–30 minutes. For example, it judged 2,688 responses in 27 minutes.
+- **Why Phi-4 runs in FP8:** in BF16, Phi-4-reasoning's weights take 27.4 GiB, which leaves only 10.8 GiB (56,720 tokens) for the KV cache. With long reasoning traces, a single run was projected at 58 hours. FP8 weights doubled the KV cache and brought the run down to 7.8 hours.
+
+**Total compute:** about 120 A40 GPU-hours over 5 days for the full suite. That covers 31 attack runs, 14 clean-accuracy runs, judge validation and retrieval statistics: 312,736 judged case–setting pairs in all.
+
 ## Repository layout
 
 ```
